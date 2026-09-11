@@ -2,11 +2,11 @@
 
 ## ASIR
 
-Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas Operativos.
+Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas Operativos de Judith Sernandez.
 
 ---
 
-## 📚 Unidades de trabajo
+## Unidades de trabajo
 
 ### 🐧 UT02 - Administración de Linux Server
 
@@ -18,7 +18,7 @@ Prácticas relacionadas con la administración de servidores Linux.
 - [PR0204 - Gestión de procesos](ut02/pr0204/)
 - [PR0205 - Programación de tareas con cron](ut02/pr0205/)
 
-### 💻 UT03 - Lenguajes de scripting en Linux: Bash
+### 🐧💻 UT03 - Lenguajes de scripting en Linux: Bash
 
 Prácticas de programación y scripting en Bash.
 
