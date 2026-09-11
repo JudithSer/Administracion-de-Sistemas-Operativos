@@ -12,11 +12,11 @@ Repositorio de prácticas, ejercicios y apuntes de Administración de Sistemas O
 
 Prácticas relacionadas con la administración de servidores Linux.
 
-- [PR0201 - Usuarios y permisos](ut02/pr0201/)
-- [PR0202 - Conexión SSH](ut02/pr0202/)
-- [PR0203 - Conexión SSH entre redes](ut02/pr0203/)
-- [PR0204 - Gestión de procesos](ut02/pr0204/)
-- [PR0205 - Programación de tareas con cron](ut02/pr0205/)
+- [PR0201 - ](ut02/pr0201/)
+- [PR0202 - ](ut02/pr0202/)
+- [PR0203 - ](ut02/pr0203/)
+- [PR0204 - ](ut02/pr0204/)
+- [PR0205 - ](ut02/pr0205/)
 
 ### 🐧💻 UT03 - Lenguajes de scripting en Linux: Bash
 
