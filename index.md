@@ -26,6 +26,6 @@ Prácticas de programación y scripting en Bash.
 
 ---
 
-## 📝 Sobre este repositorio
+## Sobre este repositorio
 
 En este repositorio iré recopilando las prácticas realizadas durante el curso de ASIR, incluyendo explicaciones, comandos, código y capturas de pantalla.
